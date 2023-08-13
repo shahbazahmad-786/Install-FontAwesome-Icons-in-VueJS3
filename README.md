@@ -1,6 +1,6 @@
 # [Install FontAwesome in Vue3](https://fontawesome.com)
 
-## Install Using Commands
+## Install Using NPM
 
 **Save FontAwesome**
 
